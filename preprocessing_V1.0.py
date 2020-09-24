@@ -35,18 +35,24 @@ def preprocessing():
     outputPath = "output"
 
     ##################### Open text files #####################
-
-    oldChat = open(oldChatfilename, "r+")
+    
     newestChat = open(newestChatfilename, "r+")
-
-    ##################### Find last line of oldChat #####################
-    string_list = oldChat.readlines()
-    lastLine = len(string_list)
-    lastlineString = string_list[lastLine-1]
+    string_list2 = newestChat.readlines()
+    
+    oldChatExists = False
+    # Find last line of oldChat
+    lastLineString = ""
+    if(path.exists(oldChatfilename)) :
+        oldChatExists = True
+        oldChat = open(oldChatfilename, "r+")
+        string_list = oldChat.readlines()
+        lastLine = len(string_list)
+        lastLineString = string_list[lastLine-1]
+    else : 
+        lastLineString = string_list2[0]
 
     ###################### Find location of that line in the newest chat #####################
-    string_list2 = newestChat.readlines()
-    newMessagesStart = string_list2.index(lastlineString)
+    newMessagesStart = string_list2.index(lastLineString)
     newMessagesStart += 1
     length = len(string_list2)
     string_list3 = string_list2[newMessagesStart:length]
@@ -79,10 +85,11 @@ def preprocessing():
     ##################### Clean up and reset #####################
 
     # Update oldchat and delete newchat
-    oldChat.close()
+    if(oldChatExists == True) :
+        oldChat.close()
+        os.remove(oldChatfilename) # Old chat deleted
     newestChat.close()
 
-    os.remove(oldChatfilename) # Old chat deleted
     os.rename(newestChatfilename, oldChatfilename) # New chat becomes old chat
 
     # delete original photos
