@@ -96,7 +96,3 @@ def preprocessing():
 
     # Done
     return outputImageList
-
-list = preprocessing()
-
-print("DONE!")
