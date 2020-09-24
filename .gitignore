@@ -1,0 +1,8 @@
+.idea/
+*.csv
+*.ipynb_checkpoints
+*.ipynb
+.DS_Store
+*.json
+__pycache__/
+test_whatsapp_download/
