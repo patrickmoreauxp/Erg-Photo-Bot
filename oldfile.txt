@@ -1,0 +1,164 @@
+24/09/2020, 12:23 - Beggy: Is this sufficient. It also returns the list u asked for
+24/09/2020, 12:26 - Paddy M: Class
+24/09/2020, 12:26 - Paddy M: Looks perfrct
+24/09/2020, 12:28 - Paddy M: Can u submit pull request
+24/09/2020, 12:29 - Beggy: Uhm
+24/09/2020, 12:29 - Beggy: Do i change back to master branch on my local
+24/09/2020, 12:30 - Beggy: It says the master is up to datw
+24/09/2020, 12:30 - Paddy M: u can do it through github website
+24/09/2020, 12:30 - Beggy: IMG-20200924-WA0007.jpg (file attached)
+24/09/2020, 12:30 - Paddy M: go to ur branch
+24/09/2020, 12:30 - Paddy M: and click pull request or something
+24/09/2020, 12:31 - Beggy: Done... i think
+24/09/2020, 12:32 - Paddy M: the version u pushed doesnt have any functions in it
+24/09/2020, 12:32 - Beggy: Uh oh
+24/09/2020, 12:32 - Beggy: Ye i havent put that up yet
+24/09/2020, 12:32 - Paddy M: cool so like delete that pull request
+24/09/2020, 12:32 - Paddy M: push ur new code to ur branch
+24/09/2020, 12:32 - Paddy M: and submit again
+24/09/2020, 12:32 - Paddy M: then i can tie the code together
+24/09/2020, 12:32 - Paddy M: then we can test
+24/09/2020, 12:34 - Paddy M: haha looks confusing atm
+24/09/2020, 12:34 - Paddy M: the pull requests
+24/09/2020, 12:37 - Beggy: I think i did it
+24/09/2020, 12:37 - Paddy M: cool
+24/09/2020, 12:38 - Beggy: You prob need to delete this
+24/09/2020, 12:38 - Beggy: IMG-20200924-WA0008.jpg (file attached)
+24/09/2020, 12:38 - Paddy M: yeah lol
+24/09/2020, 12:38 - Paddy M: i saw tht
+24/09/2020, 12:38 - Beggy: Whoopsie 😫
+24/09/2020, 12:38 - Paddy M: no bodge
+24/09/2020, 12:39 - Paddy M: so
+24/09/2020, 12:39 - Paddy M: how does it work the first time
+24/09/2020, 12:39 - Paddy M: cause the first time u use it
+24/09/2020, 12:39 - Beggy: Lol
+24/09/2020, 12:39 - Paddy M: u wont have an oldfile
+24/09/2020, 12:39 - Beggy: Good point 😢😢😢
+24/09/2020, 12:39 - Paddy M: can i just make an empty text file
+24/09/2020, 12:40 - Beggy: Ye that should work
+24/09/2020, 12:40 - Paddy M: cool
+24/09/2020, 12:40 - Beggy: Oh wait no
+24/09/2020, 12:40 - Beggy: It wont
+24/09/2020, 12:40 - Beggy: Just copy the first line of the export into another file and save it as oldfile
+24/09/2020, 12:41 - Paddy M: whats the export?
+24/09/2020, 12:41 - Paddy M: oh soz
+24/09/2020, 12:41 - Paddy M: i see
+24/09/2020, 12:41 - Paddy M: cool
+24/09/2020, 12:44 - Paddy M: oh fuck
+24/09/2020, 12:44 - Paddy M: if i press export on the practice group now
+24/09/2020, 12:44 - Paddy M: only TWO pictures get sent
+24/09/2020, 12:44 - Paddy M: so if i click export
+24/09/2020, 12:44 - Paddy M: then gmail
+24/09/2020, 12:44 - Paddy M: ffs
+24/09/2020, 12:44 - Paddy M: what happens for u
+24/09/2020, 12:45 - Beggy: Ill check now
+24/09/2020, 12:45 - Beggy: I was exporting to gdrive
+24/09/2020, 12:45 - Beggy: Ye two images to email
+24/09/2020, 12:46 - Paddy M: ughh
+24/09/2020, 12:46 - Paddy M: same is happening now wiht gdrive
+24/09/2020, 12:46 - Beggy: Noooooooooooooo
+24/09/2020, 12:46 - Beggy: This bad
+24/09/2020, 12:46 - Paddy M: wait
+24/09/2020, 12:46 - Paddy M: i wonder is this doing the filtering for us
+24/09/2020, 12:47 - Beggy: What
+24/09/2020, 12:47 - Paddy M: like is it just exporting things since last export
+24/09/2020, 12:47 - Beggy: Ohhhhhhhhhhhhhhh
+24/09/2020, 12:47 - Beggy: THAT WOULD BE SO HANDY
+24/09/2020, 12:47 - Paddy M: haha dead right man
+24/09/2020, 12:47 - Paddy M: if i go onto other chats
+24/09/2020, 12:47 - Paddy M: that i havent exported before
+24/09/2020, 12:47 - Paddy M: i think it does them all
+24/09/2020, 12:48 - Beggy: No
+24/09/2020, 12:49 - Beggy: Cos i just exported it again
+24/09/2020, 12:49 - Beggy: Same two photos
+24/09/2020, 12:49 - Paddy M: hmm
+24/09/2020, 12:51 - Paddy M: i think it might be the videos fooking things up
+24/09/2020, 12:53 - Beggy: Yes makes sense. The first message of the .txt ifls right after the video
+24/09/2020, 12:53 - Beggy: Is right after
+24/09/2020, 12:54 - Paddy M: we wud probably have to do this in a seperate whatsapp group
+24/09/2020, 12:54 - Paddy M: we had one in trinity
+24/09/2020, 12:54 - Paddy M: that was for logging training
+24/09/2020, 12:54 - Beggy: Rlly
+24/09/2020, 12:55 - Paddy M: cant think of nything else
+24/09/2020, 13:01 - Paddy M: IMG-20200922-WA0026.jpg (file attached)
+24/09/2020, 13:01 - Paddy M: IMG-20200920-WA0005.jpg (file attached)
+24/09/2020, 13:01 - Paddy M: IMG-20200112-WA0003.jpg (file attached)
+24/09/2020, 13:01 - Paddy M: IMG-20200922-WA0025.jpg (file attached)
+24/09/2020, 13:04 - Beggy: Ok i fix stupid mistake issue of first pass error
+24/09/2020, 13:04 - Paddy M: oh sorry
+24/09/2020, 13:05 - Paddy M: btw the photos have to have Training written on them?
+24/09/2020, 13:05 - Beggy: Yup
+24/09/2020, 13:05 - Paddy M: cool
+24/09/2020, 13:05 - Beggy: Do you want the new fix
+24/09/2020, 13:05 - Paddy M: yeah gwan push it there to the master
+24/09/2020, 13:05 - Beggy: Also if its dedicated groupchat i can remove the training thing
+24/09/2020, 13:06 - Paddy M: cool sure we can change that once we are finished testing here
+24/09/2020, 13:06 - Beggy: Ok done
+24/09/2020, 13:07 - Beggy: Imma get breakfast
+24/09/2020, 13:07 - Paddy M: IMG-20200924-WA0010.jpg (file attached)
+Training
+24/09/2020, 13:07 - Paddy M: IMG-20200924-WA0011.jpg (file attached)
+Training
+24/09/2020, 13:07 - Paddy M: cool
+24/09/2020, 13:15 - Paddy M: what version u have of cv2
+24/09/2020, 13:15 - Paddy M: i getting some erors
+24/09/2020, 13:15 - Paddy M: but maybe its related to that
+24/09/2020, 13:15 - Beggy: No idea mate
+24/09/2020, 13:15 - Beggy: Id say your getting loads of os errors?
+24/09/2020, 13:15 - Paddy M: pip show cv2
+24/09/2020, 13:15 - Paddy M: or
+24/09/2020, 13:16 - Paddy M: pip show opencv-python
+24/09/2020, 13:16 - Beggy: Uh ok ill get laptop 1 sec
+24/09/2020, 13:16 - Paddy M: yeah no rush man
+24/09/2020, 13:18 - Paddy M: oh i see issue
+24/09/2020, 13:18 - Paddy M: for some reason
+24/09/2020, 13:18 - Paddy M: its not loading the image name correctly
+24/09/2020, 13:19 - Beggy: IMG-20200924-WA0012.jpg (file attached)
+24/09/2020, 13:19 - Beggy: In what way
+24/09/2020, 13:20 - Paddy M: IMG-20200924-WA0013.jpg (file attached)
+if i print imageList
+24/09/2020, 13:20 - Paddy M: IMG-20200924-WA0014.jpg (file attached)
+i get this. Does this bit look OK so far?
+24/09/2020, 13:21 - Paddy M: IMG-20200924-WA0015.jpg (file attached)
+if I print imageStrings i get this
+24/09/2020, 13:21 - Paddy M: IMG-20200924-WA0016.jpg (file attached)
+24/09/2020, 13:21 - Paddy M: is that all as expected?
+24/09/2020, 13:22 - Beggy: Yup
+24/09/2020, 13:23 - Paddy M: IMG-20200924-WA0017.jpg (file attached)
+if i print the thing that goes into cv2imread
+24/09/2020, 13:23 - Paddy M: IMG-20200924-WA0018.jpg (file attached)
+its just this
+24/09/2020, 13:24 - Paddy M: IMG-20200924-WA0019.jpg (file attached)
+this is all of splitString
+24/09/2020, 13:24 - Paddy M: is it cause im saved as Paddy M rather than Paddy?
+24/09/2020, 13:25 - Beggy: Yup
+24/09/2020, 13:25 - Beggy: I just realised that
+24/09/2020, 13:25 - Paddy M: cool
+24/09/2020, 13:25 - Beggy: As i was looking
+24/09/2020, 13:25 - Beggy: Sigh
+24/09/2020, 13:25 - Paddy M: i can fix prob
+24/09/2020, 13:26 - Beggy: For testing you can prob just change like 80 to splitString[5]
+24/09/2020, 13:31 - Paddy M: ok i fixed
+24/09/2020, 13:31 - Paddy M: and success now
+24/09/2020, 13:31 - Paddy M: now to tie together
+24/09/2020, 13:32 - Beggy: Ok i fix also. Will i commit or no. I searched for ".jpg"
+24/09/2020, 13:32 - Paddy M: i will commit
+24/09/2020, 13:32 - Paddy M: have a fix now
+24/09/2020, 13:32 - Paddy M: :)
+24/09/2020, 13:32 - Beggy: 👍🏻
+24/09/2020, 13:33 - Paddy M: ok
+24/09/2020, 13:33 - Paddy M: can u send some training photos in now
+24/09/2020, 13:34 - Beggy: IMG-20200922-WA0025.jpg (file attached)
+Training
+24/09/2020, 13:34 - Paddy M: IMG-20200920-WA0005.jpg (file attached)
+Training
+24/09/2020, 13:34 - Beggy: IMG-20200924-WA0020.jpg (file attached)
+Training
+24/09/2020, 13:34 - Paddy M: IMG-20200906-WA0001.jpg (file attached)
+Training
+24/09/2020, 13:34 - Beggy: IMG-20200924-WA0021.jpg (file attached)
+Training
+24/09/2020, 13:35 - Paddy M: Mamma mia
+24/09/2020, 13:35 - Paddy M: Haha
+24/09/2020, 13:35 - Beggy: Hahahaha
+24/09/2020, 13:35 - Paddy M: Anyway....

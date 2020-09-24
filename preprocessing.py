@@ -17,6 +17,7 @@ import cv2
 import os
 from os import path
 from os import listdir
+import re
 
 ##################### Assign variables #####################
 
@@ -61,11 +62,13 @@ def preprocessing():
 
     # Search for following substring ".jpg (file attached)"
     imageList = [i for i in string_list3 if trainingImageKey in i] # This image could be random OR training images
+    #print(imageList)
     # Search for following line "Training"
     for i in imageList :
         locationInOriginalFile = string_list3.index(i)
         if(string_list3[locationInOriginalFile+1] == trainingImageKey2) :  # Add that line to list of image ID strings
             imageStrings.append(string_list3[locationInOriginalFile])
+    #print(imageStrings)
 
     ##################### Search for that image in the directory, copy, rename and move to output directory #####################
     # Unique ID number because otherwise if someone sends in two images the first image is overwritten
@@ -77,7 +80,9 @@ def preprocessing():
         name = splitString[3].replace(":","")
         date = splitString[0].replace('/','_')
         date = date.replace(',','')
-        image = cv2.imread(splitString[4])
+        re_image = re.compile("""((IMG)\S+(jpg))""")
+        image_name = re.findall(re_image,i)[0][0]
+        image = cv2.imread(image_name)
         # cv2.imwrite(name + "_" + date + "_" + str(UniqueID) + ".jpg" ,image) # outputs images in current folder
         cv2.imwrite(os.path.join(outputPath , (date + "-" + name + "-" + str(UniqueID) + ".jpg")), image)
         outputImageList.append(date + "-" + name + "-" + str(UniqueID) + ".jpg")
