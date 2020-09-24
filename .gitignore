@@ -7,3 +7,4 @@ output/
 *.json
 __pycache__/
 test_whatsapp_download/
+*.txt
